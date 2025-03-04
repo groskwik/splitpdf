@@ -1,4 +1,4 @@
-# PDF Page Splitter Script
+# SplitPDF: PDF Page Splitter Script
 
 This Python script splits each page of a PDF document vertically into two separate pages. It utilizes the [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/) library (imported as `fitz`) to handle PDF operations.
 
